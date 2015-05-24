@@ -7,8 +7,7 @@ void init(int *prom,int dolz)
         prom[i]=0;
 }
 
-
-
+use edna
 
 promenAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 void copyInt(int *first, int *second, int n)
